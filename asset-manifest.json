@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-site-jardineria/static/css/main.e0997ecc.css",
+    "main.js": "/desafio-lt-site-jardineria/static/js/main.6f8da6f6.js",
+    "static/media/plantas_ventana.png": "/desafio-lt-site-jardineria/static/media/plantas_ventana.c79a8263be14a9140c5c.png",
+    "static/media/disfruta_tu_jardin_9.png": "/desafio-lt-site-jardineria/static/media/disfruta_tu_jardin_9.753fb44c6679203e44cd.png",
+    "static/media/suculentas.png": "/desafio-lt-site-jardineria/static/media/suculentas.bb9aaa3770498f319793.png",
+    "static/media/flores.jpg": "/desafio-lt-site-jardineria/static/media/flores.d71ab70592ef871b6dd5.jpg",
+    "static/media/variedad_suculentas.jpg": "/desafio-lt-site-jardineria/static/media/variedad_suculentas.ff2dda3736e8221c7085.jpg",
+    "static/media/disfruta_tu_jardin_9.jpg": "/desafio-lt-site-jardineria/static/media/disfruta_tu_jardin_9.f63432e77ade6a370381.jpg",
+    "static/media/plantas.jpg": "/desafio-lt-site-jardineria/static/media/plantas.5de3ad5f709b04052c08.jpg",
+    "static/media/disfruta_tu_jardin_7.jpg": "/desafio-lt-site-jardineria/static/media/disfruta_tu_jardin_7.36146354166fd0972ad8.jpg",
+    "static/media/frutales.jpg": "/desafio-lt-site-jardineria/static/media/frutales.e4edb59477cb41848d19.jpg",
+    "static/media/herramientas.jpg": "/desafio-lt-site-jardineria/static/media/herramientas.e3f35f08a27e5e8fa4d4.jpg",
+    "index.html": "/desafio-lt-site-jardineria/index.html",
+    "main.e0997ecc.css.map": "/desafio-lt-site-jardineria/static/css/main.e0997ecc.css.map",
+    "main.6f8da6f6.js.map": "/desafio-lt-site-jardineria/static/js/main.6f8da6f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0997ecc.css",
+    "static/js/main.6f8da6f6.js"
+  ]
+}
