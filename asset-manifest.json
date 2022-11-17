@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desafio-lt-site-jardineria/static/css/main.e0997ecc.css",
-    "main.js": "/desafio-lt-site-jardineria/static/js/main.a2faedf6.js",
+    "main.js": "/desafio-lt-site-jardineria/static/js/main.1a00b073.js",
     "static/media/plantas_ventana.png": "/desafio-lt-site-jardineria/static/media/plantas_ventana.c79a8263be14a9140c5c.png",
     "static/media/disfruta_tu_jardin_9.png": "/desafio-lt-site-jardineria/static/media/disfruta_tu_jardin_9.753fb44c6679203e44cd.png",
     "static/media/suculentas.png": "/desafio-lt-site-jardineria/static/media/suculentas.bb9aaa3770498f319793.png",
@@ -14,10 +14,10 @@
     "static/media/herramientas.jpg": "/desafio-lt-site-jardineria/static/media/herramientas.e3f35f08a27e5e8fa4d4.jpg",
     "index.html": "/desafio-lt-site-jardineria/index.html",
     "main.e0997ecc.css.map": "/desafio-lt-site-jardineria/static/css/main.e0997ecc.css.map",
-    "main.a2faedf6.js.map": "/desafio-lt-site-jardineria/static/js/main.a2faedf6.js.map"
+    "main.1a00b073.js.map": "/desafio-lt-site-jardineria/static/js/main.1a00b073.js.map"
   },
   "entrypoints": [
     "static/css/main.e0997ecc.css",
-    "static/js/main.a2faedf6.js"
+    "static/js/main.1a00b073.js"
   ]
 }
